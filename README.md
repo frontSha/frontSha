@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi! :)
 
-<!--
-**frontSha/frontSha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sharon, an aspiring Frontend developer and ex English teacher.
 
-Here are some ideas to get you started:
+After discovering a passion for web development and falling in love with frontend, I decided to make a career switch into tech. I'm currently focused on learning, building fun projects, and earning certifications while growing my skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My current stack: 
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- Tailwind CSS
+
+### Currently learning: 
+- TypeScript
+- Advanced React
+- Testing
+
+A bit about me: Cat lover, always discovering new music, and lately I've been really into playing pokémon tcg.
+
+Always open to learning, collaborating, and building cool things.
